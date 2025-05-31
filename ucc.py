@@ -57,7 +57,7 @@ async def process_uc_amount(message: types.Message, state: FSMContext):
 
     await message.answer(
         "✅ Endi to‘lovni amalga oshiring va to‘lov chekini skrinshot qilib yuboring.\n\n"
-        "💳 To‘lov uchun karta: 8600 1234 5678 9101\n"
+        "💳 To‘lov uchun karta: 6262 5707 1914 0776\n"
         "👤 Ism: Bot Admin\n\n"
         "Chekni rasm (screenshot) ko‘rinishida yuboring:",
         reply_markup=types.ReplyKeyboardRemove()
